@@ -1,0 +1,665 @@
+﻿
+Date Formats
+See Also
+1/3/1600
+The nominal starting day for the Gregorian calendar.
+1/1/1900
+The starting day used by spreadsheets such as Excel, Lotus
+and Quattro.
+No.
+Format
+Example
+1
+dd/mm/yy
+03/08/06
+2
+ dd/mm/yyyy
+ 03/08/2006
+3
+ d/m/yy
+ 3/8/06
+4
+ d/m/yyyy
+ 3/8/2006
+5
+ ddmmyy
+ 030806
+6
+ ddmmyyyy
+ 03082006
+7
+ ddmmmyy
+ 03Aug06
+8
+ ddmmmyyyy
+ 03Aug2006
+9
+ dd-mmm-yy
+ 03-Aug-06
+10
+ dd-mmm-yyyy
+ 03-Aug-2006
+11
+ dmmmyy
+ 3Aug06
+12
+ dmmmyyyy
+ 3Aug2006
+13
+ d-mmm-yy
+ 3-Aug-06
+14
+ d-mmm-yyyy
+ 3-Aug-2006
+15
+ d-mmmm-yy
+ 3-August-06
+16
+ d-mmmm-yyyy
+ 3-August-2006
+17
+ yymmdd
+ 060803
+18
+ yyyymmdd
+ 20060803
+19
+ yy/mm/dd
+ 06/08/03
+20
+ yyyy/mm/dd
+ 2006/08/03
+21
+ mmddyy
+ 080306
+22
+ mmddyyyy
+ 08032006
+23
+ mm/dd/yy
+ 08/03/06
+24
+ mm/dd/yyyy
+ 08/03/2006
+25
+ mmm-dd-yy
+ Aug-03-06
+26
+ mmm-dd-yyyy
+ Aug-03-2006
+27
+ yyyy-mm-dd
+ 2006-08-03
+28
+ weekday, dth mmmm yyyy
+ Monday, 3 of August 2006
+29
+ weekday
+ Monday
+30
+ mmm-yy
+ Aug-06
+31
+ yy
+ 06
+32
+ yyyy
+ 2006
+33
+ dd-mmm-yyyy time
+ 03-Aug-2006 18:55:30.35
+34
+ yyyy-mm-dd time24 (ODBC Std)
+ 2006-08-03 18:55:30
+35
+ dd-mmm-yyyy time12
+ 03-Aug-2006 6:55:30 pm
+36
+ time24
+ 18:55:30
+37
+ time12
+ 6:55:30 pm
+38
+ hours
+ 48:55:30
+39
+ seconds
+ 68538.350
+40
+ Custom Date format
+ (See below)
+&A;
+AM/PM.
+AM
+&a;
+am/pm.
+am
+&C;
+Century as a 4 digit number
+2000
+&c;
+Century as a 2 digit number
+20
+&D;
+Day of month 2 digit (i.e. leading 0 for day < 10)
+07
+&d;
+Day of month
+7
+&E;
+Elapsed time in seconds to 2 decimal places
+278.35
+&e;
+Elapsed time in hours to 2 decimal places
+3.45
+&H;
+Hour in the day with leading zero for hour < 10
+06
+&h;
+Hour in the day
+6
+&M;
+Month number with leading 0 if month < 10
+08
+&m;
+Month number
+8
+&N;
+Month name in full
+January
+&n;
+Abbreviated month name
+Jan
+&O;
+Hour in the half day with leading zero for hour < 10
+04
+&o;
+Hour in the half day i.e. 1-12
+4
+&S;
+Seconds in the minute as two digits
+03
+&s;
+Seconds in the minute
+3
+&T;
+100ths of seconds in the second as two digits
+02
+&t;
+100ths of seconds in the second
+2
+&U;
+Minutes in the hour as two digits
+09
+&u;
+Minutes in the hour
+9
+&W;
+Day of week as a number 1-7; 1 = Monday etc.
+4
+&w;
+Day of week
+Sunday
+&Y;
+Year with 4 digits
+2006
+&y;
+Year as two digits
+06
+&&
+Single & in text
+&
+
+                                          $500 Cash Back
+                                                                              
+                                          $72
+                                                                                  $287
+
+                                          50K Points
+                                                                              
+                                          $47
+                                                                              
+                                          80K Points
+                                                                              
+                                          Earn $150 Back
+                                                                              
+                                          $500 Bonus
+                                                                              
+                                          Free
+                                                                              
+                                          30K Bonus Pts
+                                                                              
+                                          $39.99/month
+                                                                              
+                                          $150 Bonus
+                                                                              
+                                          $200 Bonus
+                                                                              
+                                          $4.50
+                                                                              
+                                          $5
+                                                                                  $10
+
+                                          $54
+                                                                              
+                                          $949
+                                                                                  $2298
+
+                                          $71
+                                                                                  $109
+
+                                          from $0.50
+                                                                              
+                                          $180
+                                                                                  $290
+
+                                          $100
+                                                                              
+                                          $44
+                                                                              
+                                          $498
+                                                                                  $648
+
+                                          $17.50
+                                                                                  $35
+
+                                          $1.40
+                                                                                  $26
+
+                                          $400
+                                                                                  $700
+
+                                          $9.95+
+                                                                              
+                                          Free
+                                                                              
+                                          $2.05
+                                                                              
+                                          $200
+                                                                                  $300
+
+                                          $10.85
+                                                                              
+                                          Free
+                                                                              
+                                          $71
+                                                                              
+                                          $799
+                                                                              
+                                          $4.05
+                                                                                  $17
+
+                                          $5
+                                                                              
+                                          Free
+                                                                              
+                                          $9
+                                                                                  $20
+
+                                          $35
+                                                                              
+                                          $70
+                                                                                  $250
+
+                                          $4.50
+                                                                                  $30
+
+                                          $0.40
+                                                                              
+                                          $25 Cash Card
+                                                                              
+                                          $7.50
+                                                                                  $15
+
+                                          $6
+                                                                                  $15
+
+                                          $7
+                                                                                  $11
+
+                                          $6
+                                                                              
+                                          $8 each
+                                                                              
+                                          $400
+                                                                                  $625
+
+                                          $200 Bonus
+                                                                              
+                                          $8
+                                                                              
+                                          $300
+                                                                                  $500
+
+                                          $52.50
+                                                                              Sl. No.
+Name / Section
+Intercom Nos
+Email IDs
+1.
+Dean (Academic)
+			Dr. C. Nagamani
+3013
+deanap@nitt.edu
+2.
+Associate Dean (Academic) – UG
+			Dr. T. Ramesh
+3910
+tramesh@nitt.edu
+3.
+Associate Dean (Academic) – PG
+			Dr. V. Arul Mozhi Selvan
+3910
+arulmozhi@nitt.edu
+4.
+Associate Dean (Academic) – MS/Ph.D
+			Dr. R. Karvembu
+3011
+kar@nitt.edu
+5.
+Associate Dean (Academic)
+			Dr. R. Gandhimathi
+3918
+rgmathii@nitt.edu
+6.
+1st year Coordinator
+			Dr. S. Moorthi
+3018, 3019
+fycoordinator@nitt.edu
+7.
+Deputy Registrar i/c
+			Dr. S.T. Ramesh
+3918
+stramesh@nitt.edu
+8.
+Assistant Registrar
+			Dr. S. Sathish Kumar
+3010
+ssathish@nitt.edu
+9.
+Sr.Superintendent
+			Ms. V. Venkatalakshmi
+3014
+vlakshmi@nitt.edu
+10.
+MIS (Old)
+			Mr. K. Shanmugam
+3917
+mis@nitt.edu
+11.
+MIS (New)
+			Mr. T. Ravichandran
+3427
+travi@nitt.edu
+12.
+B.Tech.(UG)
+			Ms. K. Rajathi
+			Ms. S. Girija
+3016
+ugsection@nitt.edu
+13.
+B.Arch.(UG)
+			Mr. K. Rathinam
+			Ms. R. Baviya
+3915, 3916
+ugsection@nitt.edu
+14.
+M.Tech. / M.Arch./ Msc. / MCA / MBA (PG)
+			Mr. P. Raju
+			Ms. R. Amutha
+3015, 3026
+pgsection@nitt.edu
+15.
+MS/Ph.D.
+			Ms.D.Gunavathi
+			Ms. M. Raja Rajeswari
+3011
+phdsection@nitt.edu, research@nitt.edu
+16.
+Verification of Academic Records
+			Ms. B. Mahalakshmi
+3917
+verification@nitt.edu, acadverireply@nitt.edu
+17.
+TC / Provisional / Degree certificate / Curriculum
+			Mr. S. Rageshwar
+3918
+degree@nitt.edu, curricula@nitt.edu
+18.
+Transcript / Grade cards
+			Mr. S. Dinesh Kumar
+3917
+transcript@nitt.edu
+19.
+Assistants (UG & PG Section)
+			Mr. S. Anbalagan
+			Mr. Y. Benjamin
+			Mr. A. Saminathan
+3015
+---
+20.
+Assistant (MS / Ph.D. Section)
+			Mr. S. Rajangam
+3011
+---
+
+Local (US)
+202-555-0168
+202-555-0114
+202-555-0103
+202-555-0135
+202-555-0143
+202-555-0122
+
+
+International (US)
++1-202-555-0168
++1-202-555-0114
++1-202-555-0103
++1-202-555-0135
++1-202-555-0143
++1-202-555-0122
+
+
+Welcome to the Free E-mail Database. This page is a public service to provide E-mail addresses for any purpose you may need.
+
+Drawing from a constantly-updated database, we offer up free lists of E-mail address to hundreds of users per day!
+
+Each time you access the page, you'll receive a random sampling of E-mails from our vast database of valid, verified E-mail addresses. Why buy a CD of E-mail's when we offer them to you for free!
+
+_______________________________________________________________________________________
+
+List emails address
+
+email
+stone@meekness.com
+ca-tech@dps.centrin.net.id
+trinanda_lestyowati@telkomsel.co.id
+asst_dos@astonrasuna.com
+amartabali@dps.centrin.net.id
+achatv@cbn.net.id
+bali@tuguhotels.com
+baliminimalist@yahoo.com
+bliss@thebale.com
+adhidharma@denpasar.wasantara.net.id
+centralreservation@ramayanahotel.com
+apribadi@balimandira.com
+cdagenhart@ifc.org
+dana_supriyanto@interconti.com
+dos@novotelbali.com
+daniel@hotelpadma.com
+daniel@balibless.com
+djoko_p@jayakartahotelsresorts.com
+expdepot@indosat.net.id
+feby.adamsyah@idn.xerox.com
+christian_rizal@interconti.com
+singgih93@mailcity.com
+idonk_gebhoy@yahoo.com
+info@houseofbali.com
+kyohana@toureast.net
+sales@nusaduahotel.com
+jayakarta@mataram.wasantara.net.id
+mapindo@indo.net.id
+sm@ramayanahotel.com
+anekabeach@dps.centrin.net.id
+yogya@jayakartahotelsresorts.com
+garudawisatajaya@indo.net.id
+ketut@kbatur.com
+bondps@bonansatours.com
+witamgr@dps.centrin.net.id
+dtedja@indosat.net.id
+info@stpbali.ac.id
+baliprestigeho@dps.centrin.net.id
+pamilu@mas-travel.com
+amandabl@indosat.net.id
+marketing@csdwholiday.com
+luha89@yahoo.com
+indahsuluh2002@yahoo.com.sg
+imz1991@yahoo.com
+gus_war81@yahoo.com
+kf034@indosat.net.id
+800produkwil@posindonesia.co.id
+kontak.synergi@yahoo.com
+oekaoeka@yahoo.com
+fitrianti@hotmail.com
+meylina310@yahoo.com
+h4ntoro@yahoo.com
+novi_enbe@yahoo.com
+dila_dewata@yahoo.co.id
+tiena_asfary@yahoo.co.id
+da_lawoffice@yahoo.com
+rini@ncsecurities.biz
+sudarnoto_hakim@yahoo.com
+wastioke@yahoo.com
+leebahri@yahoo.com.
+lia_kiara97@yahoo.com
+rido@weddingku.com
+b_astuti@telkomsel.co.id
+garudawisata@indo.net.id
+grfurniture@yahoo.com
+gosyen2000@hotmail.com
+hvhfood@indosat.net.id
+hr@astonbali.com
+hary@wibisono-family.com
+fadlycak'p@yahoo.com
+ida_sampurniah@telkomsel.co.id
+muslim-pariwisata-bali@yahoogroups.com
+harisnira@yahoo.com
+sales@houseofbali.com
+baim_ron@yahoo.com
+ilhambali222@yahoo.com
+bungjon@gmail.com
+diar@bdg.centrin.net.id
+elmienruge@hotmail.com
+galaxygarden2006@yahoo.com
+gorisata@indosat.net.id
+maulitasarihani@yahoo.com
+hamiluddakwah@gmail.com.au
+bounty@indo.net.id,
+michi@ritzcarlton-bali.com,
+orridor@dps.centrin.net.id,
+ngumina@hotmail.com,
+made@mas-travel.com,
+evi@mas-travel.com,
+wibawa@mas-travel.com,
+saihubaly@yahoo.co.id,
+swa_candra@yahoo.com,
+picapica@denpasar.wasantara.net.id,
+griyasantrian@santrian.com,
+yuni6671@gmail.com,
+phbalichef@indo.net.id,
+vendra@keratonjimbaranresort.com,
+bali@pansea.com,
+sales@legianbeachbali.com,
+purchasing@meliabali.com,
+swacandra@telkom.net,
+lysbeth@paintballbali.com,
+trvlindo@upg.mega.net.id,
+lim_thefaith@yahoo.com,
+uungtb@yahoo.com.au,
+vivaldil307@hotmail.com,
+iodakon@yahoo.co.id,
+reservation@pendawahotel.com,
+ptbon@dps.centrin.net.id,
+ptlamak@indosat.net.id,
+sculpt@indo.net.id,
+memedi-gwkbali@dps.centrin.net.id,
+info@leisuredream.com,
+indra_wijaya@hero.co.id,
+ndbconvex@bagus-discovery.com,
+Endro@bma-merdeka.com,
+wsuardana@indosat.net.id,
+bali@esmirada.com,
+BAL.Purchasing@fourseasons.com,
+ruby@marthatilaar-spa.com,
+villaseminyak@eksadata.com,
+sariati@sanurbeach.aerowisata.com,
+info@jenggala-bali.com,
+chef@nusaduahotel.com,
+info@balicateringcompany.com,
+moka@dps.mega.net.id,
+zsa@eyeview.info,
+winarios@indosat.net.id,
+project@balihai-rsort.com,
+vivi@kopibali.com,
+peninsulabali@dps.centrin.net.id,
+ust.july@mas-travel.com,
+ubud@pansea.com,
+ustad_july@yahoo.com,
+thebarbali@hotmail.com,
+trustbali@balidream.com,
+teraoka@his-bali.com,
+candle@dps.centrin.net.id,
+waterbom@denpasar.wasantara.net.id,
+ib.suparsa@yahoo.com,
+budhipra@nesiancea.com,
+info@kindvillabintang.com,
+pch@novotelbali.com,
+parigata@indosat.net.id,
+mail@grandmirage.com,
+ananda_resort@hotmail.com,
+info@risatabali.com,
+gwkbali@indosat.net.id,
+rai@gosharestaurant.com,
+santika@santikabali.com,
+sahidbl@indosat.net.id,
+tubanrestaurant@yahoo.com,
+sales@thejimbaranbali.com,
+info@thejimbaranbali.com,
+sari@bubbagumpbali.com,
+Winnie@grandlingga.com,
+juaidy_asia@yahoo.com,
+vicmgr@i-xplore.com,
+langka@theclubstore.co.id,
+lilakresna@ConradBali.com,
+wayan.atmaja@luxurycollecton.com,
+Cisabali@indo.net.id,
+garrant@indo.net.id,
+owenwister@yahoo.com,
+tiara@dps.mega.net.id,
+info@nzmuslim.net,
+yuanito.kurniawan@sea.ccamatil.com,
+pitamaha@indosat.net.id,
+yunani@theclubstore.co.id,
+deklis@hotmail.com,
+cianjur@indo.net.id,
+mahajayatower@hotmail.com,
+endra@centrin.net.id,
+wayan.dirayana@fourseasons.com,
+balinaga@dps.centrin.net.id,
+tiaradwt@dps.centrin.net.id,
+candrator@hotmail.com,
+altaraspa@yahoo.com,
+fani@clubbali.com,
+Itudm@dps.centrin.net.id,
+baliratuspa@biz.net.id,
+kawasspa@indosat.net.id,
+hatoe7@yahoo.co.jp,
+sales@mimpi.com,
+theroyal@indosat.net.id,
+chakra_92@yahoo.com,
+u_dmtdps@sosro.com,
+
+
+
